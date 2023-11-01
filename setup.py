@@ -13,7 +13,7 @@ package_data = {"": ["*"]}
 install_requires = [
     "base58",
     "coincurve",
-    "eth_abi>=4.0.0a,<5.0.0",
+    "eth_abi",
     "httpx",
     "pycryptodome<4",
     "requests",
